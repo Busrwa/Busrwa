@@ -1,30 +1,20 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=200&amp;section=header&amp;text=Busra%20Yagcioglu&amp;fontSize=50&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=36&amp;desc=Full-Stack%20%26%20Mobile%20Developer&amp;descAlignY=58&amp;descAlign=50&amp;descSize=20"/>
+
+# 👋 Hi, I'm Busra Yagcioglu
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=9D4EDD&center=true&vCenter=true&width=600&lines=Full-Stack+%26+Mobile+Developer+%F0%9F%9A%80;React+Native+%7C+React+%7C+Django+REST;2+Apps+on+Google+Play+Store+%F0%9F%93%B1;Firebase+%7C+Python+%7C+JavaScript;Always+learning%2C+always+building+%E2%9C%A8" alt="Typing SVG" />
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-9D4EDD?style=for-the-badge&logo=google-chrome&logoColor=white)](https://busrayagcioglu.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/busra-yagcioglu/)
+[![Medium](https://img.shields.io/badge/Medium-Read-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@busrayagcioglu2003)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/busra_yagciogluu/)
+
+![Profile Views](https://komarev.com/ghpvc/?username=busrwa&style=for-the-badge&color=9D4EDD&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/busrwa?style=for-the-badge&color=9D4EDD&labelColor=1a1a2e&label=FOLLOWERS)
+
 </div>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=20&amp;pause=1000&amp;color=9D4EDD&amp;center=true&amp;vCenter=true&amp;width=550&amp;lines=React+Native+%7C+React+%7C+Django+REST;Full-Stack+%26+Mobile+Developer+%F0%9F%9A%80;2+Apps+Published+on+Google+Play+Store;Firebase+%7C+Python+%7C+JavaScript;Always+learning%2C+always+building+%E2%9C%A8" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <a href="https://busrayagcioglu.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-9D4EDD?style=for-the-badge&amp;labelColor=1a1a2e"/>
-  </a>
-  <a href="https://www.linkedin.com/in/busra-yagcioglu/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white&amp;labelColor=1a1a2e"/>
-  </a>
-  <a href="https://medium.com/@busrayagcioglu2003">
-    <img src="https://img.shields.io/badge/Medium-Read-12100E?style=for-the-badge&amp;logo=medium&amp;logoColor=white&amp;labelColor=1a1a2e"/>
-  </a>
-  <a href="https://www.instagram.com/busra_yagciogluu/">
-    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white&amp;labelColor=1a1a2e"/>
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=busrwa&amp;style=for-the-badge&amp;color=9D4EDD&amp;label=PROFILE+VIEWS"/>
-  <img src="https://img.shields.io/github/followers/busrwa?style=for-the-badge&amp;color=9D4EDD&amp;labelColor=1a1a2e&amp;label=FOLLOWERS"/>
-</p>
 
 ---
 
@@ -32,12 +22,12 @@
 
 ```javascript
 const busra = {
-  role:       "Full-Stack & Mobile Developer",
-  apps:       "2 apps published on Google Play Store 🚀",
-  stack:      ["React Native", "React", "Django REST", "Firebase"],
-  languages:  ["Python", "JavaScript", "C++"],
-  writing:    "medium.com/@busrayagcioglu2003",
-  funFact:    "I love learning and applying new technologies ⚡"
+  role:      "Full-Stack & Mobile Developer",
+  apps:      "2 apps published on Google Play Store 🚀",
+  stack:     ["React Native", "React", "Django REST", "Firebase"],
+  languages: ["Python", "JavaScript", "C++"],
+  writing:   "medium.com/@busrayagcioglu2003",
+  funFact:   "I love learning and applying new technologies ⚡"
 };
 ```
 
@@ -45,7 +35,9 @@ const busra = {
 
 ## 🛠️ Tech Stack
 
-<table align="center">
+<div align="center">
+
+<table>
   <tr>
     <td align="center" width="110">
       <img src="https://skillicons.dev/icons?i=react" width="48"/><br/>React
@@ -88,37 +80,45 @@ const busra = {
   </tr>
 </table>
 
+</div>
+
 ---
 
 ## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=busrwa&amp;theme=radical&amp;no-frame=true&amp;no-bg=true&amp;row=1&amp;column=6" alt="trophies"/>
-</p>
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=busrwa&theme=radical&no-frame=true&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=busrwa&amp;theme=radical&amp;hide_border=true&amp;background=0D1117&amp;stroke=9D4EDD&amp;ring=9D4EDD&amp;fire=FF6B6B&amp;currStreakLabel=9D4EDD" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=busrwa&amp;show_icons=true&amp;theme=radical&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=9D4EDD&amp;icon_color=9D4EDD" width="49%"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=busrwa&amp;layout=donut&amp;theme=radical&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=9D4EDD" width="38%"/>
-</p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=busrwa&theme=radical&hide_border=true&background=0D1117&stroke=9D4EDD&ring=9D4EDD&fire=FF6B6B&currStreakLabel=9D4EDD)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=busrwa&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=9D4EDD&icon_color=9D4EDD)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=busrwa&layout=donut&theme=radical&hide_border=true&bg_color=0D1117&title_color=9D4EDD)
+
+</div>
 
 ---
 
 ## 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/busrwa/busrwa/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
-</p>
+<div align="center">
+
+![snake animation](https://raw.githubusercontent.com/busrwa/busrwa/output/github-contribution-grid-snake-dark.svg)
+
+</div>
 
 ---
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=120&amp;section=footer&amp;animation=twinkling"/>
+  <i>✨ "The best way to predict the future is to create it." ✨</i>
+  <br/><br/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 </div>
