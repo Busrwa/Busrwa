@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=220&amp;section=header&amp;text=Busra%20Yagcioglu&amp;fontSize=52&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=38&amp;desc=Full-Stack%20%2B%20Mobile%20Developer&amp;descAlignY=60&amp;descAlign=50&amp;descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=700&amp;size=18&amp;pause=1000&amp;color=9D4EDD&amp;center=true&amp;vCenter=true&amp;width=500&amp;lines=React+Native+%7C+Django+REST+%7C+Firebase;2+Apps+on+Google+Play+Store+%F0%9F%9A%80;Full-Stack+%26+Mobile+Developer;Always+learning%2C+always+building+%E2%9C%A8" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=700&amp;size=18&amp;pause=1000&amp;color=9D4EDD&amp;center=true&amp;vCenter=true&amp;width=520&amp;lines=React+Native+%7C+Django+REST+%7C+Firebase;2+Apps+on+Google+Play+Store+%F0%9F%9A%80;Full-Stack+%26+Mobile+Developer;Always+learning%2C+always+building+%E2%9C%A8" alt="Typing SVG"/>
 
 <br/>
 
@@ -39,6 +39,25 @@ const busra = {
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | <img src="https://skillicons.dev/icons?i=react" width="48"/><br/>React | <img src="https://skillicons.dev/icons?i=react" width="48"/><br/>React Native | <img src="https://skillicons.dev/icons?i=django" width="48"/><br/>Django | <img src="https://skillicons.dev/icons?i=flask" width="48"/><br/>Flask | <img src="https://skillicons.dev/icons?i=python" width="48"/><br/>Python | <img src="https://skillicons.dev/icons?i=firebase" width="48"/><br/>Firebase |
 | <img src="https://skillicons.dev/icons?i=js" width="48"/><br/>JavaScript | <img src="https://skillicons.dev/icons?i=html" width="48"/><br/>HTML5 | <img src="https://skillicons.dev/icons?i=css" width="48"/><br/>CSS3 | <img src="https://skillicons.dev/icons?i=postgresql" width="48"/><br/>PostgreSQL | <img src="https://skillicons.dev/icons?i=git" width="48"/><br/>Git | <img src="https://skillicons.dev/icons?i=cpp" width="48"/><br/>C++ |
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+### 📱 Mobile Apps — Google Play Store
+
+[![Smurfia - Hata Defteri](https://img.shields.io/badge/Smurfia%20–%20Hata%20Defteri-React%20Native%20%7C%20Firebase-9D4EDD?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.busrwa.smurfiaapp)
+[![Lilithia](https://img.shields.io/badge/Lilithia-React%20Native%20%7C%20Firebase-7B2FBE?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.busrwa.lilithia)
+
+### 🌐 Web Projects — Live & Deployed
+
+[![DSC HKU](https://img.shields.io/badge/DSC%20HKU%20Website-Django%20%7C%20JavaScript-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://dschku.com/)
+[![SmartBin](https://img.shields.io/badge/SmartBin%20Website-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://smartbinwebsite.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio%20Website-React%20%7C%20Netlify-E4405F?style=for-the-badge&logo=netlify&logoColor=white)](https://busrayagcioglu.netlify.app/)
 
 </div>
 
