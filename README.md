@@ -21,6 +21,7 @@
 ```javascript
 const busra = {
   role:      "Full-Stack & Mobile Developer",
+  education: "B.Sc. Software Engineering — Hasan Kalyoncu University (2026)",
   apps:      "2 apps published on Google Play Store 🚀",
   stack:     ["React Native", "React", "Django REST", "Firebase"],
   languages: ["Python", "JavaScript"],
